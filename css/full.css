@@ -107,3 +107,7 @@ body {
 .pages {
     display: none;
 }
+
+.OddshotIcon-videoCapture {
+    display: none!important;
+}
